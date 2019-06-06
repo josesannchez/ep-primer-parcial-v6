@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <class name="user">
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff00">
+            <properties>
+                <property name="email"><![CDATA[cuarto@facci.com]]></property>
+                <property name="password"><![CDATA[movil]]></property>
+            </properties>
+        </object>
+    </class>
+    <class name="item">
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff01">
+            <properties>
+                <property name="tipo"><![CDATA[Figura]]></property>
+                <property name="titulo"><![CDATA[Goku Figure]]></property>
+                <property name="descripcion"><![CDATA[Enjoy the latest Goku Figure and more. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text end]]></property>
+                <property name="precio"><![CDATA[350.90]]></property>
+                <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff10.jpg]]></property>
+            </properties>
+        </object>
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff02">
+            <properties>
+                <property name="tipo"><![CDATA[Consola de video]]></property>
+                <property name="titulo"><![CDATA[Xbox One + Dragon Ball Game]]></property>
+                <property name="descripcion"><![CDATA[Buy the Xbox One console – an all-in-one entertainment system. . More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text end]]></property>
+                <property name="precio"><![CDATA[295.0]]></property>
+                <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff11.jpg]]></property>
+            </properties>
+        </object>
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff03">
+            <properties>
+                <property name="tipo"><![CDATA[Figura]]></property>
+                <property name="titulo"><![CDATA[Vegeta Figure]]></property>
+                <property name="descripcion"><![CDATA[Enjoy Vegeta Figure in Bend, Oregon USA.. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text. More and more text end]]></property>
+                <property name="precio"><![CDATA[39.90]]></property>
+                <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff12.jpg]]></property>
+            </properties>
+        </object>
+    </class>
+</data>
